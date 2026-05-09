@@ -57,5 +57,4 @@ How To Run:
 To run the project, open the terminal in the project folder and compile the program using javac ui/Main.java, then start it with java ui.Main. After running, the console menu will appear with options like adding study goals, tracking progress, viewing reports, motivation, and exam goals
 
 Url Of Demo Video: 
-
-Url Of  Github:
+https://youtu.be/c3aAa6g456E
